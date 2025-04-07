@@ -1,0 +1,8 @@
+title: "Yongmin Dev"
+description: "System design, technical essays, and retrospectives"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+sass:
+  style: compressed

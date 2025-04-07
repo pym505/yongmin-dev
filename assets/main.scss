@@ -1,0 +1,19 @@
+---
+---
+@import "minima";
+
+/* 소셜 링크를 포함하는 컨테이너에 여백 추가 */
+.footer-social, .social-links, .social-media-list {
+  margin-left: auto; /* 왼쪽 여백을 자동으로 설정해 오른쪽으로 밀기 */
+  gap: 1.5rem;
+}
+
+/* GitHub와 LinkedIn 아이콘 사이 간격 늘리기 */
+.social-links li, .social-media-list li {
+  margin-left: 20px;
+}
+
+/* 첫 번째 아이콘에는 왼쪽 마진 제거 */
+.social-links li:first-child, .social-media-list li:first-child {
+  margin-left: 0;
+}

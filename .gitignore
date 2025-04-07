@@ -1,0 +1,5 @@
+_site/
+*.sh
+.DS_Store
+Gemfile.lock
+.ruby-version
