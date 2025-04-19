@@ -9,7 +9,6 @@ categories: ai ethics llm
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15249432.svg)](https://doi.org/10.5281/zenodo.15249432)
 
 
-
 **The True Risk of AI: Amplification, Not Domination**  
 This study argues that the risk of artificial intelligence lies not in "AI domination over humans" as commonly believed, but in the "amplification of human beliefs." When users interact with LLMs, AI reinforces and justifies their existing beliefs rather than challenging them.
 
