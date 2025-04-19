@@ -2,7 +2,7 @@
 layout: post
 title: "FAQ-About-My-Career"
 subtitle: "Answers to Common Questions About My Professional Journey"
-date: 2023-04-18
+date: 2025-04-18
 categories: career faq experience
 ---
 

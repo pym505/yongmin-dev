@@ -2,7 +2,7 @@
 layout: post
 title: "Distributed Crawling System"
 subtitle: "Scalable Web Crawling Architecture with Docker and Selenium"
-date: 2023-04-20
+date: 2025-04-20
 categories: design architecture crawling
 ---
 
