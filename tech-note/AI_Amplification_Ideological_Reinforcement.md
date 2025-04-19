@@ -7,7 +7,6 @@ categories: ai ethics llm
 ---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15249432.svg)](https://doi.org/10.5281/zenodo.15249432)
-Published on [Zenodo](https://zenodo.org/record/15249432) with DOI: [10.5281/zenodo.15249432](https://doi.org/10.5281/zenodo.15249432)
 
 
 
@@ -34,7 +33,7 @@ This study argues that the risk of artificial intelligence lies not in "AI domin
 
 **Citation**: Park, Y. (2023). AI Does Not Dominate Humans -- It Amplifies Them. Zenodo. https://doi.org/10.5281/zenodo.15249432
 
-
+---
 ## Full Text 
 
 ### Author  
