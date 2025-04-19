@@ -3,18 +3,18 @@ layout: home
 title: Yongmin Dev
 ---
 
-박용민의 기술 중심 포트폴리오입니다.
-실제 시스템 설계, 기술적 논문, 그리고 일본 이직/생활 회고까지 담았습니다.
+Hi, I'm Yongmin Park — a full-stack backend engineer based in Japan with 8+ years of experience.  
+I specialize in scalable system architecture, API design, and data processing pipelines.
 
 ## Design
-- [Coin Bot Architecture](./design/coin-bot.md)
-- [Distributed Crawling System](./design/decentralized-crawling.md)
+*Projects completed, documentation in progress. Check back soon!*
+- [Coin Bot Architecture](./design/coin-bot) (Documentation in progress)
+- [Distributed Crawling System](./design/decentralized-crawling) (Documentation in progress)
+- [AI Distributed Response & Evaluation System](./design/ai-evaluation-system) (Documentation in progress)
 
 ## Tech Note
-- [AI Does Not Dominate Humans. Humans Justify Themselves Through AI — And Then Dominate.](./tech-note/humans-justify-through-ai.md)
+- [AI Does Not Dominate Humans](./tech-note/AI_Amplification_Ideological_Reinforcement)
 
 ## Life Note
-- [Finding Job in Japan](./life-note/japan-job.md)
-- [Living in Japan](./life-note/japan-life.md)
-
-
+- [Why I Moved to Japan](./life-note/Why-I-Moved-to-Japan)
+- [FAQ About My Career](./life-note/FAQ-About-My-Career)
