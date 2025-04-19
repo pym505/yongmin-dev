@@ -4,7 +4,6 @@ title: Yongmin Dev
 ---
 
 Hi, I'm Yongmin Park — a full-stack backend engineer based in Japan with 8+ years of experience.  
-I specialize in scalable system architecture, API design, and data processing pipelines.
 
 ## Design
 *Projects completed, documentation in progress. Check back soon!*
