@@ -2,7 +2,7 @@
 layout: post
 title: "AI Does Not Dominate Humans -- It Amplifies Them"
 subtitle: "Analysis of Ideological Reinforcement through LLMs"
-date: 2023-04-19
+date: 2025-04-19
 categories: ai ethics llm
 ---
 
