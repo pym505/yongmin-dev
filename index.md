@@ -12,7 +12,7 @@ Hi, I'm Yongmin Park — a full-stack backend engineer based in Japan with 8+ ye
 - [AI Distributed Response & Evaluation System](./design/ai-evaluation-system) (Documentation in progress)
 
 ## Tech Note
-- [AI Does Not Dominate Humans](./tech-note/AI_Amplification_Ideological_Reinforcement)
+- [How AI Systems Reflect and Amplify Our Thinking](./tech-note/AI_Amplification_Ideological_Reinforcement)
 
 ## Life Note
 - [Why I Moved to Japan](./life-note/Why-I-Moved-to-Japan)
