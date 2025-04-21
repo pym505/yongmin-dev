@@ -6,7 +6,6 @@ date: 2025-04-19
 categories: ai ethics llm
 ---
 
-# How AI Systems Reflect and Amplify Our Thinking
 
 ## Summary
 
