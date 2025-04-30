@@ -39,8 +39,8 @@ ShareKim: Offered remote work, which aligned with my goal of eventually working 
 Citibank: The office was within walking distance of my home.  
 Linus: Allowed full remote work, even while I was living in Japan for six months.  
 Docenty AI: Enabled me to continue job searching in Japan while working part-time. I was also interested in the AI-related technologies.  
-ResponseOne: Provided a rare opportunity to work part-time on infrastructure projects while living abroad.  
-Kaisyo: Based in rural Japan and involved service development for a subsidiary company. It was one of the few companies that accepted applicants without Japanese language certification or recruitment agency referrals.
+ResponseOne (current)  : Provided a rare opportunity to work part-time on infrastructure projects while living abroad.  
+Kaisyo (current)  : Based in rural Japan and involved service development for a subsidiary company. It was one of the few companies that accepted applicants without Japanese language certification or recruitment agency referrals.
 
 ---
 
