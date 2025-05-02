@@ -9,7 +9,7 @@ Hi, I'm Yongmin Park — a full-stack backend engineer based in Japan with 8+ ye
 *Projects completed, documentation in progress. Check back soon!*
 - [Coin Bot Architecture](./design/coin-bot) (Documentation in progress)
 - [Distributed Crawling System](./design/decentralized-crawling) (Documentation in progress)
-- [AI Distributed Response & Evaluation System](./design/ai-evaluation-system) (Documentation in progress)
+- [AI Distributed Response & Evaluation System](./design/ai-evaluation-system)
 
 ## Tech Note
 - [How AI Systems Reflect and Amplify Our Thinking](./tech-note/AI_Amplification_Ideological_Reinforcement)
