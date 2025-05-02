@@ -97,4 +97,3 @@ Someone who works with great people, collects their outcomes, and steers directi
 I want to keep writing code, stay grounded, and maintain my own rhythm.
 Because when I’m working in a way that feels right to me, the team benefits too.
 
----
