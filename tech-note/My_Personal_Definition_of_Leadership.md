@@ -9,8 +9,8 @@ categories: leadership engineering team
 
 # My Personal Definition of Leadership, Built Through Experience
 
-**Under a perfect leader, team members shrink back — and the leader burns out.
-In contrast, a leader who shows their flaws gives the team the confidence to speak up.**
+> **Under a perfect leader, team members shrink back — and the leader burns out.
+> In contrast, a leader who shows their flaws gives the team the confidence to speak up.**
 
 ---
 
