@@ -36,6 +36,7 @@ For content written in English, please use Chrome’s translation feature if nee
 ## Tech Note
 - [How AI Systems Reflect and Amplify Our Thinking](./tech-note/AI_Amplification_Ideological_Reinforcement)
 - [My Personal Definition of Leadership, Built Through Experience](https://github.com/pym505/yongmin-dev/blob/main/tech-note/My_Personal_Definition_of_Leadership.md)
+
 ## Life Note
 - [Why I Moved to Japan](./life-note/Why-I-Moved-to-Japan)
 - [FAQ About My Career](./life-note/FAQ-About-My-Career)
