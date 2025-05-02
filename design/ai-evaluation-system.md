@@ -116,8 +116,11 @@ Running GPT-4.0 in multi-response mode was also tested, but the cost would incre
 
 ## Retrospective & Improvements
 
-What mattered most was the evaluation logic. I no longer work at that company, so I don't know if my evaluation pipeline is still in use. But I firmly believe that setting criteria for evaluating responses is more important than anything else in AI.
+One of the most important takeaways from this project was the need to define clear evaluation criteria for AI-generated responses. Beyond simply improving model performance, establishing how to assess and act on output quality plays a critical role in shaping the overall product experience.
 
-At the time, the CEO was more focused on user acquisition and wasn't very responsive to new product proposals. From an engineer's perspective, I felt that without a solid product, users would just leave no matter how many we acquired.
+I'm not sure whether the evaluation logic I designed is still in use at the company, but I believe the direction and principles behind it remain relevant.
 
-Instead of building another LLM chatbot as a business, I now think AI should be applied to more diverse and grounded use cases across other industries.
+At the time, the company was heavily focused on user acquisition, and as a result, technical product proposals were often deprioritized. From an engineer’s perspective, I believe that without a solid and trustworthy product foundation, even successful user growth cannot be sustained over time.
+
+I also came to question whether LLM-based chatbots alone offer a viable long-term business model. In my view, the more sustainable path lies in applying AI across various industries to solve real, domain-specific problems through tailored system design.
+
