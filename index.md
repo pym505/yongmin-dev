@@ -4,6 +4,8 @@ title: Yongmin Dev
 ---
 
 Hi, I'm Yongmin Park — a full-stack backend engineer based in Japan with 8+ years of experience.  
+[→ View my LinkedIn profile](https://www.linkedin.com/in/yongmin-park-7156181a0/)  
+[→ Explore my GitHub projects](https://github.com/pym505)
 
 ## Design
 *Projects completed, documentation in progress. Check back soon!*
