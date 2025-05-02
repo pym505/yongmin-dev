@@ -77,7 +77,7 @@ The goal of this project was to solve the IP blocking issue and design a crawlin
 
 The system was implemented as a distributed crawler architecture using AWS On-Demand instances. It successfully mitigated the IP blocking issue and enabled stable, large-scale product crawling.
 
-The structure also leaves room for future enhancements, such as autoscaling or integration with scheduling systems.
+The structure also leaves room for future enhancements, such as autoscaling, scheduling, and distributed task monitoring. Basic scaling logic was implemented based on the product volume: the number of EC2 instances provisioned is dynamically determined to ensure that crawling can complete within the 4-hour operational window.
 
 ---
 
@@ -95,7 +95,7 @@ The structure also leaves room for future enhancements, such as autoscaling or i
 ## Process Flow
 
 1. Main server reads DB to determine number of products to crawl
-2. Based on product count, the server creates EC2 instances via boto3
+2. Based on product count, the server dynamically creates EC2 instances via boto3
 3. Server attaches the instances to a load balancer
 4. Crawling API is deployed to each instance
 5. Load balancer assigns product numbers to each instance
@@ -113,13 +113,13 @@ The structure also leaves room for future enhancements, such as autoscaling or i
 
 The system is composed of a single main server coordinating multiple AWS EC2 On-Demand instances. The architecture is as follows:
 
-* The main server retrieves the list of products to crawl and dynamically creates EC2 instances
+* The main server retrieves the list of products to crawl and dynamically provisions EC2 instances based on product volume
 * Each instance is equipped with a crawling API and connected to a load balancer
 * Product numbers are evenly distributed via round-robin to each instance
 * Each instance performs crawling with rate-limiting and uploads results to S3
 * Once completed, the main server gathers all results from S3 and writes them to the DB
 
-This architecture provides an effective solution to IP bans, enables parallel execution, and is scalable while remaining simple to maintain.
+This architecture provides an effective solution to IP bans, enables parallel execution, and is scalable while remaining simple to maintain. Basic autoscaling is already implemented based on estimated product volume.
 
 ---
 
