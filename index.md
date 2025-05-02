@@ -3,6 +3,10 @@ layout: home
 title: Yongmin Dev
 ---
 
+英語で記載された部分は、Chromeブラウザの翻訳機能をご利用いただければ幸いです。
+
+--- 
+
 I am a backend-focused full-stack engineer with over 8 years of experience.  
 (While I also have about 5 years of experience in frontend development, it mainly involved maintaining and integrating legacy systems.)
 
@@ -18,24 +22,6 @@ These experiences led to tangible outcomes, including surpassing the compensatio
 Currently, I’m based in Japan, focusing on long-term career growth in an environment that values both autonomy and sustainability.
 
 For content written in English, please use Chrome’s translation feature if needed.
-
-
----
-バックエンドを中心としたフルスタックエンジニアとして、8年以上の開発経験があります。  
-（フロントエンド開発も約5年間並行して行ってきましたが、主にレガシー環境での保守・統合が中心です。）
-
-システムアーキテクチャの設計、データモデリング、インフラ構築、大規模データ処理に強みがあり、  
-変化する要件に柔軟に対応しながら、実用的なソリューションを提案・実装してきました。
-
-このポートフォリオには、実際のプロジェクトで設計・運用したシステム構成に関する技術的なドキュメントと、個人的な考察をまとめています。  
-また、日本でのキャリア転換や生活に関する振り返りも含まれています。
-
-キャリアの初期には、韓国の大手企業に勤務しておりましたが、より実践的な技術力を身につけるため、フリーランスやスタートアップの環境に身を置くことを選びました。  
-これらの経験を通じて、さまざまな領域において実運用レベルのシステム設計・運用を主導する機会を得ることができました。  
-現在は日本を拠点に、柔軟性と成長志向を兼ね備えた環境の中で、持続可能な長期的キャリアの構築に取り組んでいます。
-
-英語で記載された部分は、Chromeブラウザの翻訳機能をご利用いただければ幸いです。
-
 
 
 [→ View my LinkedIn profile](https://www.linkedin.com/in/yongmin-park-7156181a0/)  
