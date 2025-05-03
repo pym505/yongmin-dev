@@ -28,7 +28,7 @@ For content written in English, please use Chrome’s translation feature if nee
 [→ Explore my GitHub projects](https://github.com/pym505)
 
 ## Design
-*Projects completed, documentation in progress. Check back soon!*
+
 - [Coin Bot Architecture](./design/coin-bot)
 - [Distributed Crawling System](./design/decentralized-crawling) 
 - [AI Distributed Response & Evaluation System](./design/ai-evaluation-system)
