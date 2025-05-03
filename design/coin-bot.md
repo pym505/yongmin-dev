@@ -107,5 +107,8 @@ The system is currently positioned as an internal platform, focusing on structur
 
 Managing this project while working full-time in Japan was physically demanding, especially since I handled everything from planning to implementation. However, my prior experience in crypto trading and strong interest in system design enabled me to deliver a scalable, coherent system.
 
-Looking back, I feel reasonably satisfied with the outcome. But I do wonder how I’ll perceive this work a few years from now.
+While the core infrastructure and strategy logic are mostly in place, actual trading has not yet been activated. The system is still under development, with data collection running continuously and strategy scripts in progress.
+
+Looking back, I feel reasonably satisfied with the outcome so far. But I do wonder how I’ll perceive this work a few years from now.
+
 
