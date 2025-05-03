@@ -138,4 +138,4 @@ This project was carried out at a Japanese company and involved the following pr
 2. **Procurement Restrictions**: Though using overseas IP providers might have been more efficient, company policy mandated domestic IP addresses, restricting implementation options.
 3. **Legacy Tech Stack**: The company operated on a legacy stack. Docker was not used; deployments were handled via simple Git pull. Instead of Terraform, infrastructure automation was done with boto3. In this context, keeping the architecture simple and maintainable took priority over using modern tools.
 
-Despite these constraints, the project succeeded in resolving a critical bottleneck and was implemented in a way that balanced complexity with maintainability.
+
