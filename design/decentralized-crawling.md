@@ -122,6 +122,13 @@ The system is composed of a single main server coordinating multiple AWS EC2 On-
 This architecture provides an effective solution to IP bans, enables parallel execution, and is scalable while remaining simple to maintain. Basic autoscaling is already implemented based on estimated product volume.
 
 ---
+---
+
+## Development Status (as of May 2025)
+
+The system design has been completed, and I delegated the implementation task to a team member at the Japanese company as part of an internal learning opportunity.  
+However, due to that member being occupied with higher-priority assignments, development has not progressed beyond the planning stage.  
+The project remains on hold until the assigned developer becomes available.
 
 ## Retrospective and Improvements
 
