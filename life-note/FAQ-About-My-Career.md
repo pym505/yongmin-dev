@@ -17,7 +17,7 @@ Samsung Electronics – Semiconductor Division
 The department I worked in was operating on outdated technologies and followed a seniority-based evaluation system. Individual performance was difficult to recognize. I left to pursue more technical growth, knowing that freelance work could offer similar compensation.
 
 ShareKim  
-The job was originally offered with remote work as a key condition. However, the required number of office days gradually increased, eventually leading to a request for full on-site work. Although a freelance option with remote work was proposed, the change in terms made it difficult to expect long-term stability.
+The job was originally offered with remote work as a key condition. However, the required number of office days gradually increased, eventually leading to a request for full on-site work. the change in terms made it difficult to expect long-term stability.
 
 Citibank  
 This was a short-term project that required in-office work. It ended as planned without extension.
