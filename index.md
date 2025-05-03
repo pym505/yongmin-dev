@@ -21,7 +21,6 @@ Through freelance and startup work, I gained direct experience designing and ope
 These experiences led to tangible outcomes, including surpassing the compensation levels of many former colleagues in the corporate sector.  
 Currently, I’m based in Japan, focusing on long-term career growth in an environment that values both autonomy and sustainability.
 
-For content written in English, please use Chrome’s translation feature if needed.
 
 
 [→ View my LinkedIn profile](https://www.linkedin.com/in/yongmin-park-7156181a0/)  
