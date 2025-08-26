@@ -28,7 +28,7 @@ After the COVID-19 pandemic, some clients defaulted on payments, which affected 
 Docenty AI  
 This was a part-time contract. Before moving to Japan, I worked more than expected, but after relocating, my availability became limited. As a result, there was a mismatch in expectations, and I decided to accept a better offer from another company.
 
-Kaisyo (current)  
+Kaisyo  
 The initial salary offer was less than half of my previous full-time salary in Korea, but I joined under the promise of a potential raise and remote work. As of now, remote work remains uncertain, and the salary may remain fixed, so I am currently reconsidering my options.
 
 ---
@@ -42,21 +42,10 @@ Docenty AI: Enabled me to continue job searching in Japan while working part-tim
 ResponseOne (current)  : Provided a rare opportunity to work part-time on infrastructure projects while living abroad.  
 Kaisyo (current)  : Based in rural Japan and involved service development for a subsidiary company. It was one of the few companies that accepted applicants without Japanese language certification or recruitment agency referrals.
 
----
-
-**4. What kind of company are you looking for?**
-
-I am capable of building MVP-level backend systems from scratch — including cloud infrastructure, database design, API development, and data pipelines. My contributions in this area have been recognized with compensation exceeding 100 million KRW (approximately 75,000–80,000 USD), which placed me in the top percentile among Korean developers in their early 30s.
-
-However, I would like to gain more hands-on experience managing large-scale enterprise systems. My infrastructure knowledge comes from a backend engineering perspective rather than a dedicated operations role, and I am eager to deepen my expertise.
-
-I am also interested in working in the AI domain, as I believe AI will shape the future of our industry.
-
-Lastly, I have loved games since I was a child, and I would be excited to work on game-related projects if the opportunity arises.
 
 ---
 
-**5. Final Note**
+**4. Final Note**
 
 Through diverse work environments, I have developed a strong sense of both my capabilities and areas for growth. I am now looking to join a team where I can contribute meaningfully and grow together over the long term — with trust, technical depth, and stability.
 
