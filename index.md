@@ -7,7 +7,7 @@ title: Yongmin Dev
 
 --- 
 
-I am a backend-focused full-stack engineer with over 8 years of experience.  
+I am a backend-focused full-stack engineer with over 9 years of experience.  
 (While I also have about 5 years of experience in frontend development, it mainly involved maintaining and integrating legacy systems.)
 
 My strengths include system architecture design, data modeling, infrastructure setup, and large-scale data processing.  
